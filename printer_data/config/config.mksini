@@ -35,7 +35,7 @@ value                          = rdwutwql
 
 
 [device_state]
-state                          = paused_0.01
+state                          = paused_0.02
 
 
 [total]
