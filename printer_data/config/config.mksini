@@ -31,11 +31,11 @@ name                           = aws
 
 
 [device_code]
-value                          = uz2wb23r
+value                          = rdwutwql
 
 
 [device_state]
-state                          = standby_0.00
+state                          = printing_0.00
 
 
 [total]
